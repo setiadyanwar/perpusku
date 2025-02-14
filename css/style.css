@@ -37,6 +37,7 @@ body {
 }
 
 
+
 input,
 button {
   border: none;
@@ -625,6 +626,8 @@ th {
   margin-top: 2rem;
   font-size: 0.9rem;
 }
+
+
 
 /*=============== BREAKPOINTS ===============*/
 @media (max-width: 992px){
